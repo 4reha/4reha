@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 
 
 
-# Profile
+## Profile
 
 > a brief introduction:
 
 ---
 
-# man 4reha
+## man 4reha
 
 4reha (Areha) is a shortcut nickname of "AbdeRrahman El Haddad Asofi"
 taken by the first letter of each word.
 
-# whoami
+## whoami
 
 
 -------------------------------------:::+/:-------------------------------------
@@ -83,7 +83,7 @@ Abderrahman El Haddad Asofi (@4reha)
 
 ---
 
-# cat About.txt
+## cat About.txt
 
 I solve problems in creative ways. at 1337, where I am taking my career step forward everyday. I have learned the importance of competitive programming and applying the best algoritms to modern-day projects.
 
