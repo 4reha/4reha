@@ -69,8 +69,9 @@
 > 
 > # cat About.txt
 > 
-> I solve problems in creative ways. at 1337, where I am taking my career step forward everyday. I have learned the importance of competitive programming and applying the best > > algoritms to modern-day projects.
+> I solve problems in creative ways. at 1337, where I am taking my career step forward everyday. I have learned the importance of competitive programming and applying the best algoritms to modern-day projects.
 > 
 > My interest in cybersecurity has grown scine the first day I got into the development . And in today's world, while others may want to take tha technologies to the next level, I want to help in securing the way for a bright future where the privacy is the first attentien, because due to high internet penetration, cybersecurity is one of the biggest need of the world as cybersecurity threats are very dangerous to the country’s security.
 > 
 > My education at 1337 has prepared me for a long career in developing softwares and digital solutions
+> 
