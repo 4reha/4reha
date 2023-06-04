@@ -1,12 +1,18 @@
-# 💫 About Me
+# Hi 👋, I'm AbderraHman
+
+"I solve problems in creative ways."
+
+## 💫 About Me
 
 🔭 I’m currently working on Library System Management Web App  
-🌱 I’m currently learning GraphQL and Apollo  
+🌱 I’m currently learning Apollo GraphQL  
 💬 Ask me about Backend Development, Docker/Containerization, ...
 
 ## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Asofi#9280) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ar.eha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abderrahman-elhdd-asf/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ar__eha)
+
+[![ael-hadd's 42 stats](https://badge.mediaplus.ma/darkblue/ael-hadd)](https://profile.intra.42.fr/users/ael-hadd)
 
 ## 💻 Tech Stack
 
