@@ -1,7 +1,7 @@
 # 💫 About Me
 
-🔭 I’m currently working on Library System Management  
-🌱 I’m currently learning GraphQL  
+🔭 I’m currently working on Library System Management Web App  
+🌱 I’m currently learning GraphQL and Apollo  
 💬 Ask me about Backend Development, Docker/Containerization, ...
 
 ## 🌐 Socials
@@ -20,18 +20,10 @@
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4reha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
+<!-- ## 🐦 Latest Tweet
 
-[![latest tweet](https://gtce.itsvg.in/api?username=ar__eha)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![latest tweet](https://gtce.itsvg.in/api?username=ar__eha)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ### 🔝 Top Contributed Repo
 
 ![contributions](https://github-contributor-stats.vercel.app/api?username=4reha&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=4reha&icon=5&color=1)](https://visitcount.itsvg.in)
