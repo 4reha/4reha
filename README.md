@@ -13,20 +13,10 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/Asofi#9280" style="text-decoration: none !important;">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://instagram.com/ar.eha" style="text-decoration: none !important;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/abderrahman-elhdd-asf/" style="text-decoration: none !important;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/ar__eha" style="text-decoration: none !important;">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
-  </a>
-</p>
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)
 
 ## 💻 Tech Stack
 
