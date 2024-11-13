@@ -91,11 +91,21 @@
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=4reha&icon=5&color=1" alt="visit count"/>
 </p>
-<p align="center">
-</p>
 
-<div align="center" style="display: flex; justify-content: space-evenly; flex-wrap: wrap; align-items: center; gap: 20px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4reha&theme=github_dark&hide_border=false" alt="commit streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=4reha&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="commit stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4reha&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4reha&theme=github_dark&hide_border=false" alt="commit streak"/>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=4reha&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="commit stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4reha&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages"/>
+    </td>
+  </tr>
+</table>
